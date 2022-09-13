@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0 auto;
+}
+
+h1{
+   text-align: center;
+   height: 60px;
+   background-color: coral;
+   text-decoration: underline;
+}
+main{
+    display: flex;
+}
+.aruanda{
+    font-size: 15px;
+    margin-left: 50px;
+}
+
+.caminho{
+    border: 3px groove blue;
+    box-shadow: 0px 0px 20px red;
+    margin: 20px;
+}
+
+.filho{
+    border: solid 2px black;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.nene1{
+    margin-left:30px ;
+}
